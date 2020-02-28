@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b5ef32b-71a7-40db-aef7-c49348015c03" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YJ7eqY9OB9TOoI31JiJykyZGKj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="discord-application" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="student.zernil.classpractice.Main" />
+      <module name="Happy Numbers Grab Bag" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b5ef32b-71a7-40db-aef7-c49348015c03" name="Default Changelist" comment="" />
+      <created>1582648941590</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582648941590</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="545" y="167" key="FileChooserDialogImpl" timestamp="1582881689122">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="545" y="167" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1582881689122" />
+    <state width="1342" height="208" key="GridCell.Tab.0.bottom" timestamp="1582662705482">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1342" height="208" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1582662705482" />
+    <state width="1342" height="208" key="GridCell.Tab.0.center" timestamp="1582662705482">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1342" height="208" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1582662705482" />
+    <state width="1342" height="208" key="GridCell.Tab.0.left" timestamp="1582662705482">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1342" height="208" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1582662705481" />
+    <state width="1342" height="208" key="GridCell.Tab.0.right" timestamp="1582662705482">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1342" height="208" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1582662705482" />
+    <state width="1342" height="258" key="GridCell.Tab.1.bottom" timestamp="1582654452481">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1342" height="258" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1582654452481" />
+    <state width="1342" height="258" key="GridCell.Tab.1.center" timestamp="1582654452480">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1342" height="258" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1582654452480" />
+    <state width="1342" height="258" key="GridCell.Tab.1.left" timestamp="1582654452480">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1342" height="258" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1582654452480" />
+    <state width="1342" height="258" key="GridCell.Tab.1.right" timestamp="1582654452481">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1342" height="258" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1582654452481" />
+    <state x="273" y="55" key="SettingsEditor" timestamp="1582649044043">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="273" y="55" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1582649044043" />
+    <state x="341" y="148" width="846" height="601" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1582654425870">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="341" y="148" width="846" height="601" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.864@0.0.1536.864" timestamp="1582654425870" />
+    <state x="421" y="189" key="run.anything.popup" timestamp="1582661525116">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="421" y="189" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1582661525116" />
+    <state x="427" y="175" width="672" height="678" key="search.everywhere.popup" timestamp="1582653715262">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="427" y="175" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1582653715262" />
+  </component>
+</project>
